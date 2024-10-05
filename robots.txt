@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iltushau.github.io/sitemap.html.gz
+Sitemap: https://iltushau.github.io/app/sitemap.html.gz
+Sitemap: https://iltushau.github.io/assets/sitemap.html.gz
+Sitemap: https://iltushau.github.io/css/sitemap.html.gz
+Sitemap: https://iltushau.github.io/data/sitemap.html.gz
+Sitemap: https://iltushau.github.io/includes/sitemap.html.gz
+Sitemap: https://iltushau.github.io/item/sitemap.html.gz
+Sitemap: https://iltushau.github.io/src/sitemap.html.gz
